@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mathiashusted
+- 🧑‍🎓 I'm currently a BSc. student of bioinformatics at FU Berlin
+- ⬆ Looking to up my skills
